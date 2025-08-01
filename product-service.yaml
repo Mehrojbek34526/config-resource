@@ -1,6 +1,12 @@
 server:
   port: 9292
 
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/product_db
+    username: postgres
+    password: root123  
+
 sms-provider:
   clientId: eskiz
   clientSecret: secretKey
