@@ -12,5 +12,5 @@ spring:
 
 sms-provider:
   clientId: eskiz
-  clientSecret: secretKey233
+  clientSecret: secretKeyEskisi qaytti
   loginSms: 'Sizning app.shop.uz kirish parolingiz : %s'  
